@@ -1,0 +1,15 @@
+D:\Users\ccaje\source\repos\Examen1\bin\Debug\net6.0\Examen1.exe
+D:\Users\ccaje\source\repos\Examen1\bin\Debug\net6.0\Examen1.deps.json
+D:\Users\ccaje\source\repos\Examen1\bin\Debug\net6.0\Examen1.runtimeconfig.json
+D:\Users\ccaje\source\repos\Examen1\bin\Debug\net6.0\Examen1.dll
+D:\Users\ccaje\source\repos\Examen1\bin\Debug\net6.0\Examen1.pdb
+D:\Users\ccaje\source\repos\Examen1\obj\Debug\net6.0\Examen1.csproj.AssemblyReference.cache
+D:\Users\ccaje\source\repos\Examen1\obj\Debug\net6.0\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ccaje\source\repos\Examen1\obj\Debug\net6.0\Examen1.AssemblyInfoInputs.cache
+D:\Users\ccaje\source\repos\Examen1\obj\Debug\net6.0\Examen1.AssemblyInfo.cs
+D:\Users\ccaje\source\repos\Examen1\obj\Debug\net6.0\Examen1.csproj.CoreCompileInputs.cache
+D:\Users\ccaje\source\repos\Examen1\obj\Debug\net6.0\Examen1.dll
+D:\Users\ccaje\source\repos\Examen1\obj\Debug\net6.0\refint\Examen1.dll
+D:\Users\ccaje\source\repos\Examen1\obj\Debug\net6.0\Examen1.pdb
+D:\Users\ccaje\source\repos\Examen1\obj\Debug\net6.0\Examen1.genruntimeconfig.cache
+D:\Users\ccaje\source\repos\Examen1\obj\Debug\net6.0\ref\Examen1.dll
