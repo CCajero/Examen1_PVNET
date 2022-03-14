@@ -120,7 +120,7 @@
             {
                 while (seleccionEst != 9)
                 {
-                    Console.WriteLine("\n1. Ver la cantidad de resultados rojos.\n2.Ver cantidad de resultados negros.\n3.Ver cantidad de resultados pares.\n4.Ver cantidad de resultados impares.\n5.Ver cantidad de tiros realizados.\n6.Ver balance.\n9. Salir.");
+                    Console.WriteLine("\n1. Ver la cantidad de resultados rojos.\n2.Ver cantidad de resultados negros.\n3.Ver cantidad de resultados pares.\n4.Ver cantidad de resultados impares.\n5.Ver cantidad de tiros realizados.\n6.Ver balance.\n7. Número de veces que ha salido un número.\n9. Salir.");
                     seleccionEst = int.Parse(Console.ReadLine());
                     if (seleccionEst == 1)
                     {

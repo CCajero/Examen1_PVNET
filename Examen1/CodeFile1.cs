@@ -27,7 +27,7 @@
     {
         foreach (var item in list.GroupBy(x => x))
         {
-            Console.WriteLine($"{item.Key} encontrado {item.Count()} veces");
+            Console.WriteLine($"El número {item.Key} ha salido {item.Count()} veces");
         }
     }
 }
